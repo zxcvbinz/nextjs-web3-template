@@ -9,7 +9,7 @@
 		"lint": "next lint",
 		"chain": "hardhat node",
 		"compile": "hardhat compile",
-		"deploy": "hardhat run --network localhost scripts/deploy.js"
+		"deploy": "hardhat run --network localhost hardhat/scripts/deploy.js"
 	},
 	"dependencies": {
 		"@rainbow-me/rainbowkit": "^2.1.7",

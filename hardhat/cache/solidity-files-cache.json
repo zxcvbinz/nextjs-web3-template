@@ -2,7 +2,7 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/zxcvbinz/Desktop/dev/web3/nextjs-web3-template/hardhat/contracts/Token.sol": {
-      "lastModificationDate": 1728417606638,
+      "lastModificationDate": 1728418862618,
       "contentHash": "5e37083f79422dcc25203efbac239a6e",
       "sourceName": "hardhat/contracts/Token.sol",
       "solcConfig": {
